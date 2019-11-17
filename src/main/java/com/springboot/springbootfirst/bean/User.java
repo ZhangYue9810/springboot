@@ -8,9 +8,6 @@ public class User {
     private String email;
     private String address;
 
-    public Integer getId() {
-        return id;
-    }
 
     public void setId(Integer id) {
         this.id = id;
